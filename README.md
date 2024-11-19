@@ -1,10 +1,8 @@
-# 💫 About Me: 
+# 💫About Me: 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'> 
 
 
 College Student passionate about [Blockchain/devops].<br>Specializing in [MERN/Java].<br>Currently working on improving skills.<br>Always learning and exploring new tech.<br>Open to collaboration on innovative projects.
-
-
 
 # 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudra-pratap-singh-056478264/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rudra888156)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@rudra888156)
@@ -138,8 +136,22 @@ College Student passionate about [Blockchain/devops].<br>Specializing in [MERN/J
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## GSSOC(24) Badges 🪶
 
-# 🏆 Digital Badges
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+  <a href="https://gssoc.girlscript.tech/leaderboard?year=2024">
+    <img src="https://gssoc.girlscript.tech/badges/postman.png" width="100" height="100" alt="Postman Badge"/>
+    <img src="https://gssoc.girlscript.tech/badges/1.png" width="100" height="100" alt="Badge 1"/>
+    <img src="https://gssoc.girlscript.tech/badges/2.png" width="100" height="100" alt="Badge 2"/>
+    <img src="https://gssoc.girlscript.tech/badges/3.png" width="100" height="100" alt="Badge 3"/>
+    <img src="https://gssoc.girlscript.tech/badges/4.png" width="100" height="100" alt="Badge 4"/>
+    <img src="https://gssoc.girlscript.tech/badges/5.png" width="100" height="100" alt="Badge 5"/>
+    <img src="https://github.com/GSSoC24/Hack-Web3Conf/blob/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100px" height="100px" />
+  </a>
+</div>
+
+
+# 🏆 Hacktoberfest24 Badge
 [![An image of @rudrapratap63's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rudrapratap63)](https://holopin.io/@rudrapratap63)
 
 
